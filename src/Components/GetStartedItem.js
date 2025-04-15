@@ -33,7 +33,12 @@ function GetStartedItem(props) {
         <h3 className="getStartedCard">{props.title}</h3>
         <p className="getStartedCardP">{props.description}</p>
       </div>
-      <a href={props.url} target="_blank" rel="noreferrer" className="cardLink">
+      <a
+        href={props.url}
+        target="_blank"
+        rel="noreferrer noopener"
+        className="cardLink"
+      >
         {props.btnText}
         <img src={ArrowRight} alt="Arrow right icon" />
       </a>

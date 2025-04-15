@@ -44,7 +44,7 @@ function Footer() {
             <a
               href="https://goo.gl/maps/o97dcDxGxFcAcRheA"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               10808 River Front Parkway, Suite #3035,{<br />} South Jordan, UT
               84095

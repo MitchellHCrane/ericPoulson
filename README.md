@@ -22,4 +22,3 @@ Make sure node 16 is running: 'nvm use 16' to switch node versions
 
 'npm run build'
 # ericPoulson
-# ericPoulson

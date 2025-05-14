@@ -6,6 +6,8 @@
 .socialVerseWidget {
     margin-top: 24px;
     margin-bottom: 80px;
+    max-width: 840px;
+    margin: auto;
 }
 
 .useUsMain {

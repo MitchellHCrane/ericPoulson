@@ -1,0 +1,17 @@
+.videoWrapper {
+    background-color: #004e82;
+    display: flex;
+    justify-content: center;
+    padding: 64px 0;
+}
+
+.video {
+    max-width: 296px;
+    border-radius: 8px;
+}
+
+@media (min-width: 768px) {
+    .video {
+        max-width: 364px;
+    }
+}
